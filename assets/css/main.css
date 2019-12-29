@@ -225,6 +225,7 @@ body,
 input,
 select,
 textarea {
+    cursor: url(https://i.imgur.com/yYfvVMN.png), auto;
     color: #414f57;
     font-family: 'Source Sans Pro', Helvetica, sans-serif;
     font-size: 14pt;
